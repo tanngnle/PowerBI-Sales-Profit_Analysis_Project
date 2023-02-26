@@ -19,6 +19,8 @@ The first Dashboard consists of the key insights:
 
 Dashboard 1 output: <img src=”https://github.com/tanngnle/Sales-Profit_Analysis_Dashboard_with_PowerBI/blob/main/Dashboard%201%20Key%20Insights.png”> 
 
+<img src= "https://github.com/tanngnle/Sales_Insights_with_Tableau_and_MySQL/blob/main/Visualisation.png">
+
 The second Dashboard analyzes the profit:
 1. Revenue Contribution by Markets and Customers
 2. Profit Contribution by Markets and Customers
