@@ -5,7 +5,7 @@ The project focuses on Atliq Hardware's downward sales trends in India and the m
 
 Here are the queries that I wrote to explore the data before building my Dashboards, then validating them: https://github.com/tanngnle/Sales-Profit_Analysis_Dashboard_with_PowerBI/blob/main/Sales_insights_MySQL_queries.sql
 
-Here is my data star schema: <img src=”https://github.com/tanngnle/Sales-Profit_Analysis_Dashboard_with_PowerBI/blob/main/Data%20Star%20Schema.png”> 
+Here is my data star schema: <img src="https://github.com/tanngnle/Sales-Profit_Analysis_Dashboard_with_PowerBI/blob/main/Data%20Star%20Schema.png"> 
 
 Here are the Questions I answered to build 3 dashboards 
 The first Dashboard consists of the key insights:
@@ -17,19 +17,17 @@ The first Dashboard consists of the key insights:
 6. Total revenue.
 7. Sale quantity.
 
-Dashboard 1 output: <img src=”https://github.com/tanngnle/Sales-Profit_Analysis_Dashboard_with_PowerBI/blob/main/Dashboard%201%20Key%20Insights.png”> 
-
-<img src= "https://github.com/tanngnle/Sales_Insights_with_Tableau_and_MySQL/blob/main/Visualisation.png">
+Dashboard 1 output: <img src="https://github.com/tanngnle/Sales-Profit_Analysis_Dashboard_with_PowerBI/blob/main/Dashboard%201%20Key%20Insights.png"> 
 
 The second Dashboard analyzes the profit:
 1. Revenue Contribution by Markets and Customers
 2. Profit Contribution by Markets and Customers
 3. Profit margin (in percent) by Markets and Customers
 
-Dashboard 2 output: <img src=”https://github.com/tanngnle/Sales-Profit_Analysis_Dashboard_with_PowerBI/blob/main/Dashboard%202%20Profit%20Analysis.png”> 
+Dashboard 2 output: <img src="https://github.com/tanngnle/Sales-Profit_Analysis_Dashboard_with_PowerBI/blob/main/Dashboard%202%20Profit%20Analysis.png"> 
 
 The third Dashboard analyzes the performance given a profit margin target of 2%:
 1. Profit margin (in percent) in 4 levels of hierarchies (Zones, Markets, Customers, Product)
 2. Comparison between Last year's monthly Revenue and this Year’s
 
-Dashboard 3 output: <img src=”https://github.com/tanngnle/Sales-Profit_Analysis_Dashboard_with_PowerBI/blob/main/Dashboard%203%20Performance%20Insights.jpg”> 
+Dashboard 3 output: <img src="https://github.com/tanngnle/Sales-Profit_Analysis_Dashboard_with_PowerBI/blob/main/Dashboard%203%20Performance%20Insights.jpg"> 
